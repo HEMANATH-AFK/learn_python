@@ -1,0 +1,15 @@
+problems: 
+1. if whether neon number
+input: 9
+output: yes
+#find square of number... sum the square number.. if its equal to actual numbr its neon number
+
+2. automorphic number
+input: 5
+output: yes
+input:76
+output: yes
+#last digit of square of a number should equals to the actual number
+#example 5**2 == 25 where last digit is 5
+
+
